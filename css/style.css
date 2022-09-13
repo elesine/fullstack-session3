@@ -1,0 +1,31 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+	font-size: 45px;
+	font-family: Roboto, sans-serif;
+    color: brown;
+}
+
+h2{
+	font-family: Roboto, sans-serif;
+    color: black;
+}
+
+input[type="button"] {
+    width: 250px;
+    height: 80px;
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: black;
+    border: 2px solid #473306;
+    border-radius: 15px;
+    margin: 5px 5px 5px 70px;
+    cursor: pointer;
+}
+
+input[type="button"]:hover {
+    background-color: #b20b0b;
+}
