@@ -1,1 +1,1 @@
-[alt text](captura1.PNG)
+[Screenshot](captura1.PNG)
